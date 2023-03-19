@@ -1,0 +1,15 @@
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.csproj.AssemblyReference.cache
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.GeneratedMSBuildEditorConfig.editorconfig
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.AssemblyInfoInputs.cache
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.AssemblyInfo.cs
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.csproj.CoreCompileInputs.cache
+c:\workspace\hotelChallengeDio\bin\Debug\net7.0\hotelChallengeDio.exe
+c:\workspace\hotelChallengeDio\bin\Debug\net7.0\hotelChallengeDio.deps.json
+c:\workspace\hotelChallengeDio\bin\Debug\net7.0\hotelChallengeDio.runtimeconfig.json
+c:\workspace\hotelChallengeDio\bin\Debug\net7.0\hotelChallengeDio.dll
+c:\workspace\hotelChallengeDio\bin\Debug\net7.0\hotelChallengeDio.pdb
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.dll
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\refint\hotelChallengeDio.dll
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.pdb
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\hotelChallengeDio.genruntimeconfig.cache
+c:\workspace\hotelChallengeDio\obj\Debug\net7.0\ref\hotelChallengeDio.dll
