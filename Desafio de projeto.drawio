@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T19:08:31.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="-X0E--KiXNQFn1jba2Fh" version="21.0.6" type="github"><diagram name="Página-1" id="NQavjOa-SH3pYsNluZP0">7Vnbjts2EP0aA+mDA11s7/px1940aJ1kGwdN+khJXIkNpREoypd8fYcUaVmWvJfGioPAgLGrGc7wMudwOKIG/izd/C5InryDiPKB50SbgT8feN61P8W/SrGtFKPxqFLEgkWVyq0VS/aNGqVjtCWLaNEwlABcsrypDCHLaCgbOiIErJtmD8Cbo+Ykpi3FMiS8rf3MIpmYZXlXtf4tZXFiR3YnZsEpscZmJUVCIljvqfy7gT8TALJ6SjczylXsbFwqvzdHWncTEzSTz3Fg4+BPGYyH2z+SG/lZ8HxDVsNx1cuK8NIs+J4WBRAzZbm1cSjWLOUkQ+n2ATK5NC0OymHCeLQgWyjVPApJwq9Wuk1AsG9oTzg2uajAZiENzN5E9cY4nwEHgYoM9AC101J1ZoYRtEC3e7te90D1jmwahgtSSDtB4JzkBQv0lJVjSkTMsluQElJjtE6YpMuchMpmjVxWE5GpnbeJExWSbo4C4O5gxe1AIaVSbNHEOPiGCHYnGHFd08q1umSPUlfXhs2GyfGu4xpsfDB4vwD7SQv7IYrvsfeBf4NPSylYFreYgAGQGkgBX+kBch1gEs7iDEVOH5SbiiDD7XVj1BJUoAuMO4610DbzUa35aOKgVIC+D1xvoYRFEc0U1iCJJMGOizmwTOpAjW/xh+GcOa/HgzFOfIayW8v4U+ZCziDDtRCmQaTImjVVzDkJIY7vuTZLDC28yfNoYe1OTourTlosIcBlXbhxVm6MvTNzY9rixrLESFxOi95PC/fqmceF64x6At+WZAeZ4RPLQWUETYRGcphwBWog8CmWu6hc0sXp0sX05z5KXLeTMTOiEIlIZPii4nWhxg+lxtlPEtfrpMbfBGGdMyIYVNyIaMhSPA8u/Pih/LAvHefjh9/ix0daULHCV9MJSVUYsqDIu06VI8WHu0eDEGNDxVEifF+N8ssWJM2KpKMg8aZdBcm10xdHRl055JAdzlsocqovkVRCWTAMrLoqMXa6RrGXHkZnqpXD+mW4K3PQv6p0KqnLEJNYYRgbQXE56HpLZFWmeEkR1EnTSW9lc/uOrUUCzjS4FQnsPaP7vxiQIpac1pB/UoyYD90WLfw2LfwOCnASUH4PBZMMVP+isj2gxlPoN+nNsoQKJvuEffrM7NTX5Zrbvl0beCobrQD9VA0cERUpYbPTqyoxPZ2VnMR4/Nb1htXWdA2q89Yrm8sK9f8Fvek05nwI8Aj9qySZ1KX8bh0v6GhX3OHMeFhyslf+6X4eP+gvqbPf1DltF4Hde8jraRPtPp3UmNMopraiw5AlEENG+F2tRSDKLKKRgaG2WYDOhCpi/1Ipt6ZkI6WEZjwxZmL7xfhr4R8lIFhGnG/2G+dbI1VzVRN8vMLC9UApQvoYMPZTFxZ69FEER90ICsqJZKvmTE6Pz/gs+GyY/LL3vIcOSjU4StjuI6Wchs5rx/GbwPpT9wlotXSPZxbGTb03nBrvyZnhRrH+EKnb9r7m+nf/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-19T19:08:58.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="r9snUnfXtCZpoAESiram" version="21.0.6" type="github">
+  <diagram name="Página-1" id="NQavjOa-SH3pYsNluZP0">
+    <mxGraphModel dx="839" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-5" value="Pessoa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-6" value="- Nome: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-5" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-7" value="- Sobrenome: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-5" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-9" value="Suite" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="170" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-10" value="- Tipo Suite: String&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-9" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-11" value="- Capacidade: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-9" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-12" value="- ValorDiario: decimal" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-9" vertex="1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-13" value="Reserva&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-14" value="-&amp;nbsp; Hospedes: List &amp;lt;Pessoa&amp;gt;&lt;br&gt;- Suite : Suite&lt;br&gt;- DiasReservados: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-13" vertex="1">
+          <mxGeometry y="26" width="290" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="i5bKtb5-yJhAtWrlpxav-13" vertex="1">
+          <mxGeometry y="90" width="290" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-16" value="+ void CadastrarHospedes(List&amp;lt;Pessoa&amp;gt; hospedes)&lt;br&gt;&lt;br&gt;+ void CadastrarSuite(Suite suite)&lt;br&gt;&lt;br&gt;+ int ObterQuantidadeHospedes()&lt;br&gt;&lt;br&gt;+ decimal CalculaValorDiario()&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5bKtb5-yJhAtWrlpxav-13" vertex="1">
+          <mxGeometry y="98" width="290" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i5bKtb5-yJhAtWrlpxav-11" target="i5bKtb5-yJhAtWrlpxav-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5bKtb5-yJhAtWrlpxav-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="i5bKtb5-yJhAtWrlpxav-6" target="i5bKtb5-yJhAtWrlpxav-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
